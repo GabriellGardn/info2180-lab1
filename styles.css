@@ -1,0 +1,21 @@
+h1{
+    font-size: 24px;
+    color: #38b2ac;
+}
+
+h2{
+    font-size: 21px;
+    color: #5a67d8;
+}
+
+p{
+    font-size: 18px;
+}
+
+h2{
+    content: Gabriell Gardner;
+}
+
+main, p{
+    content: My name is Gabriell Gardner and I am a student at the University of the West Indies Mona. I am twenty-one years old and I major in Computer Science. I am interested in Web Development because it encorages creativity and innovation.
+}
